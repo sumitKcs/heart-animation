@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://sumitkcs.github.io/canvas-animation-effects/">![Spectrum Mouse Trail](https://sumitkcs.github.io/heart-animation/assets/img/preview.png)</a>
+<a href="https://sumitkcs.github.io/heart-animation/">![Heart Animation](https://sumitkcs.github.io/heart-animation/assets/img/preview.png)</a>
 
 Heart animation made using Anime.js.
 
