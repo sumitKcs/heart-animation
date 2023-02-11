@@ -1,3 +1,5 @@
+import consoleText from "./console.js";
+
 const container = document.querySelector(".container");
 for (let i = 0; i <= 100; i++) {
   const hearts = document.createElement("div");
@@ -45,3 +47,4 @@ function swRegistration() {
   }
 }
 swRegistration();
+consoleText();
