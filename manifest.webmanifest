@@ -20,11 +20,11 @@
     }
   ],
   "theme_color": "#000000",
-  "background_color": "#000000",
-  "display": "standalone",
-  "lang": "en-US",
-  "id": "https://sumitKcs.github.io/heart-animation/",
+    "background_color": "#000000",
+    "display": "standalone",
+    "lang": "en-US",
+  "id": "https://sumitkcs.github.io/heart-animation/",
   "start_url": "/heart-animation/",
   "scope": "/heart-animation/",
-  "description": "A mousetrail animation app."
+  "description": "A Heart animation app."
 }
