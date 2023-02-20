@@ -4,7 +4,7 @@
 
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Heart Animation](https://res.cloudinary.com/dn1e07eul/image/upload/v1659385853/Readme%20Headers/inter-012-heart-animation_kh6ssr.png)</a>
+<a href=#table-of-contents>![Heart Animation](https://camo.githubusercontent.com/e3802581788d987a13caef138200cd070468ee64bfc3df2a0685685b33e5fe6f/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646e3165303765756c2f696d6167652f75706c6f61642f76313637363134313738342f526561646d65253230486561646572732f696e7465722d3031322d68656172742d616e696d6174696f6e5f6170797869302e706e67)</a>
 
 <br>
 
